@@ -12,9 +12,12 @@ NPM
 
 ## Development server
 
-###Step 1: clone the repo.
+Step 1: clone the repo.
+
 Step 2: Extract the downloaded folder and navigate to that folder using command interface.
+
 Step 3: Run `npm install`.
+
 Step 4: Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
